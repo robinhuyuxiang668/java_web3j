@@ -1,4 +1,4 @@
-##  L13 web3j合约部署和读写
+## web3j合约部署和读写
 
 ### 1. 合约编写
 - 编写一个ERC1155的智能合约，继承了OpenZeppelin ERC1155和Ownable合约
